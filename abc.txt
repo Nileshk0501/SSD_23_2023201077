@@ -1,2 +1,7 @@
 Hello this is the example
-
+Adding another line 
+one more
+last please
+ok 
+done 
+end
